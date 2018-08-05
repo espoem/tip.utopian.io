@@ -18,8 +18,6 @@ let config = {
     'techslut',
     'mcfarhat',
     'sachincool',
-    'imwatsi',
-    'eastmael',
     'buckydurddle',
     'favcau',
     'knowledges',
@@ -27,7 +25,10 @@ let config = {
     'andrejcibik',
     'deathwing',
     'jestemkioskiem',
-    'jmromero'
+    'jmromero',
+    'rosatravels',
+    'roj',
+    'abh12345'
   ],
   whitelist: [
     'elear'
